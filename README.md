@@ -27,7 +27,7 @@ This project contains a script to scrape job postings from [merojob.com](https:/
 1. Run the script to scrape job postings:
 
     ```bash
-    python merojob_scraping.py
+    python merojob_scraping.ipynb
     ```
 
 2. The script will create two CSV files:
