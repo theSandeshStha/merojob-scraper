@@ -12,8 +12,8 @@ This project contains a script to scrape job postings from [merojob.com](https:/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/job-scraping-script.git
-    cd job-scraping-script
+    git clone https://github.com/your-username/merojob_scraper.git
+    cd merojob_scraper
     ```
 
 2. Install the required dependencies:
@@ -27,7 +27,7 @@ This project contains a script to scrape job postings from [merojob.com](https:/
 1. Run the script to scrape job postings:
 
     ```bash
-    python job_scraping_script.py
+    python merojob_scraping.py
     ```
 
 2. The script will create two CSV files:
